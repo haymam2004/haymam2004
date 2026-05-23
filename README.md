@@ -1,6 +1,6 @@
 # Hi, I am Hlaing Hay Mann Thin
 
-I am a computer networks student at Auston College with a strong interest in full-stack web development, product-focused software engineering, and user-friendly digital experiences. I enjoy building practical web applications, connecting frontend and backend systems, and creating clean interfaces that are easy for people to use.
+I am a computer networks Bachelor student at Auston College with a strong interest in full-stack web development, product-focused software engineering, and user-friendly digital experiences. I enjoy building practical web applications, connecting frontend and backend systems, and creating clean interfaces that are easy for people to use.
 
 My experience includes frontend development, backend integration, database-driven systems, technical documentation, and AI model training support for Burmese OCR projects. I am currently growing my skills in Python/Django, CI/CD, cloud deployment, and production troubleshooting.
 
