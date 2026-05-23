@@ -16,27 +16,39 @@ My experience includes frontend development, backend integration, database-drive
 
 ### Your Future Navigator Web Application
 
-Higher Diploma final group project focused on a web-based application. I contributed to frontend design, project planning, teamwork, and technical documentation while gaining experience in collaborative development and user-focused application design.
+Higher Diploma final group project focused on a web-based application. I contributed to frontend design, project planning, teamwork, and technical documentation.
+
+Technologies: HTML5, CSS3, JavaScript, project documentation
 
 ### Logistics and Transport Management Web Application
 
-Individual bachelor degree project where I developed a logistics and transport management web application with user-facing interfaces, scheduling features, database-supported workflows, and backend functionality. This project strengthened my frontend-backend integration, database design, debugging, and documentation skills.
+Individual bachelor degree project where I developed a logistics and transport management web application with user-facing interfaces, scheduling features, database workflows, and backend functionality.
+
+Technologies: JavaScript, PHP, PostgreSQL, HTML5, CSS3
 
 ### Digital Library Project
 
-Internship group project where I served as project leader. I helped lead the development of a digital library platform with user-friendly interfaces and accessibility-focused frontend design, while collaborating with team members to improve usability, page structure, and overall user experience.
+Internship group project where I served as project leader. I helped build a digital library platform with user-friendly interfaces and accessibility-focused frontend design.
+
+Technologies: HTML5, CSS3, JavaScript, responsive UI, accessibility
 
 ### Burmese OCR AI Model Training
 
-Internship project supporting Burmese language OCR model training. I helped improve recognition accuracy from digital images to written text and gained practical experience in data preparation, accuracy checking, teamwork, and problem-solving.
+Internship project supporting Burmese language OCR model training. I helped improve recognition accuracy from digital images to written text.
+
+Technologies: OCR, AI model training, data preparation, accuracy checking
 
 ### Automation Restaurant Coursework
 
-Foundation coursework completed as a team project where I served as leader. The project helped me practice project coordination, software planning, and team-based delivery.
+Foundation coursework completed as a team project where I served as leader. I practiced project coordination, software planning, and team-based delivery.
+
+Technologies: system planning, UI planning, teamwork, documentation
 
 ### Artificial Intelligence Coursework
 
-Foundation coursework completed as a team project, building my understanding of AI concepts and collaborative technical work.
+Foundation coursework completed as a team project, focused on AI concepts and collaborative technical work.
+
+Technologies: artificial intelligence concepts, research, teamwork
 
 ## Experience
 
@@ -79,3 +91,4 @@ Foundation coursework completed as a team project, building my understanding of 
 
 - Email: [hlainghaymamthin@gmail.com](mailto:hlainghaymamthin@gmail.com)
 - LinkedIn: [linkedin.com/in/hlainghaymannthin](https://www.linkedin.com/in/hlainghaymannthin)
+- GitHub: [github.com/haymam2004](https://github.com/haymam2004)
